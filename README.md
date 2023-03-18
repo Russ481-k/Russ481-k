@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Manbok Authorized brokerage office web page creation
 - 🌱 I’m currently learning CI/CD Github Action, Docker, Redux, Typescript
-  => [Project](http://wacatbucket.s3-website.ap-northeast-2.amazonaws.com/)   
+  => [Project_Entasis_ts_ver](http://wacatbucket.s3-website.ap-northeast-2.amazonaws.com/)   
 - 👯 I’m looking to collaborate on Realestate business
 - 🤔 I’m looking for help with Realestate business
 - 💬 Ask me about Everything
